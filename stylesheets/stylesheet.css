@@ -2,7 +2,7 @@
   box-sizing: border-box; }
 
 body {
-  background-color: F30;
+  background-color: 3f0;
   padding: 0 1rem;
   margin: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -20,7 +20,7 @@ body {
   margin: 0 auto;
   padding: 1rem 2rem;
   text-align: left;
-  background-color: f30;
+  background-color: 3f0;
 }
 
 section {
